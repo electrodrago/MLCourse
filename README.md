@@ -15,7 +15,7 @@ Follow the order in ```Face_identity_recognition.ipynb```.
 
 ### Result
 Being simple, the model given the result of highly correct with the dataset, however, configures might involve in the near future to help the model perform better without some sort of overfitting.
-![Young-Obama](./img/young_barack_obama.jpg | width=250) <br>
+![Young-Obama](./img/young_barack_obama.jpg) <br>
 ![Prediction](./img/predict.png)
 <!---
 ### Todo list
