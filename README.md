@@ -13,7 +13,10 @@ The dataset is 3 videos of Barack Obama, Harry Potter and Andrew Ng which can be
 ### Running code
 Follow the order in ```Face_identity_recognition.ipynb```.
 
-
+### Result
+Being simple, the model given the result of highly correct with the dataset, however, configures might involve in the near future to help the model perform better without some sort of overfitting.
+![Young-Obama](./img/young_barack_obama.jpg) <br>
+![Prediction](./img/predict.png)
 <!---
 ### Todo list
 - [x] Code of testing the first stage.
