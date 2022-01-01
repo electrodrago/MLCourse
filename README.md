@@ -8,7 +8,7 @@ The frontal face used in this code are extracted by dlib library:
 
 ### Dataset
 The dataset is 3 videos of Barack Obama, Harry Potter and Andrew Ng which can be download from Youtube. For this project, I trimmed the video to target-face only video for easy frontal face extraction. The video is put together in this repo, however, can get directly the image set I used from ```face.zip```. \\
-![Example screenshot](./img/191.png)
+![Face](./img/191.jpg)
 
 ### Running code
 Follow the order in ```Face_identity_recognition.ipynb```.
